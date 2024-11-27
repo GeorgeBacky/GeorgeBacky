@@ -47,8 +47,7 @@ Hello I'm George,<br>I am a passionate Full Stack Developer specializing in Fron
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeBacky&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=GeorgeBacky&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=GeorgeBacky&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBacky&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBacky&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
